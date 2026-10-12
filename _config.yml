@@ -1,0 +1,30 @@
+title: "Alfredo Olarte Paredes"
+description: "Investigador del Tecnológico Nacional de México – Materiales, Modelado y Optimización de Procesos"
+theme: jekyll-theme-cayman
+
+url: "https://olarte-paredes.github.io"
+
+author:
+  name: "Alfredo Olarte Paredes"
+  affiliation: "Tecnológico Nacional de México – Instituto Tecnológico de Zacatepec"
+  email: "alfredo.op@zacatepec.tecnm.mx"
+
+navbar:
+  - name: "Inicio"
+    link: "/"
+  - name: "Sobre mí"
+    link: "/about"
+  - name: "Investigación"
+    link: "/investigacion"
+  - name: "Publicaciones"
+    link: "/publicaciones"
+  - name: "Proyectos"
+    link: "/proyectos"
+  - name: "Cursos y talleres"
+    link: "/cursos"
+  - name: "Servicios de consultoría"
+    link: "/servicios"
+  - name: "Portafolio técnico"
+    link: "/portafolio"
+  - name: "Contacto"
+    link: "/contacto"
